@@ -1,2 +1,2 @@
 # hello-world
-my first rep
+Finally i am creating my first git-hub rep 
